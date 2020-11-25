@@ -1,0 +1,12 @@
+{
+  "name": "pdf2html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "image-to-base64": "^2.1.1",
+    "node-poppler": "^2.0.1",
+    "yargs": "^16.1.1"
+  }
+}
